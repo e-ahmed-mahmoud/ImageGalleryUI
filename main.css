@@ -1,0 +1,13 @@
+#Mynavbar{
+    color:azure ;
+    margin-bottom: 40px;
+    background-color: beige;
+
+}
+p.prag1{
+    padding:0 0 0 20px;
+    font-size: 22px;
+}
+.nav-link , .navbar-brand{
+    color:white;
+}
